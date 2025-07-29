@@ -1,0 +1,43 @@
+🍣 ZYAN SUSHI - COMPLETE IMAGE STRUCTURE
+==========================================
+
+Your images should be organized exactly like this:
+
+📁 public/assets/images/
+├── 📁 logo/
+│   ├── 🖼️ logo.jpg (100x100px) - Restaurant logo
+│   └── 📄 README.txt (instruction file)
+│
+├── 📁 gallery/
+│   ├── 🖼️ hero-background.jpg (1920x1080px) - Main background
+│   ├── 🖼️ restaurant-interior.jpg (600x400px) - Interior photo  
+│   └── 📄 README.txt (instruction file)
+│
+├── 📁 menu/
+│   ├── 🖼️ sashimi-premium.jpg (400x300px) - Sashimi dish
+│   ├── 🖼️ combo-especial.jpg (400x300px) - Combo dish
+│   ├── 🖼️ temaki-artesanal.jpg (400x300px) - Temaki dish
+│   └── 📄 README.txt (instruction file)
+│
+├── 📁 locations/
+│   ├── 🖼️ breu-branco.jpg (400x300px) - Breu Branco location
+│   ├── 🖼️ tucurui.jpg (400x300px) - Tucuruí location
+│   ├── 🖼️ tailandia.jpg (400x300px) - Tailândia location
+│   └── 📄 README.txt (instruction file)
+│
+└── 📄 FOLDER_STRUCTURE.txt (this file)
+
+IMPORTANT NOTES:
+✅ File names are case-sensitive!
+✅ Use exact dimensions specified
+✅ Use JPG format for photos, PNG for logos
+✅ Don't change folder names
+✅ Delete README.txt files after adding your images
+
+QUICK CHECKLIST:
+□ All 9 image files are properly named
+□ All images are correct dimensions  
+□ All images are in correct folders
+□ Code is updated to use local paths (optional)
+
+For detailed instructions, see: IMAGES_GUIDE.md in the root folder
